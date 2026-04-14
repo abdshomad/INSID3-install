@@ -1,0 +1,3 @@
+[submodule "INSID3"]
+	path = INSID3
+	url = https://github.com/abdshomad/INSID3
